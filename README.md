@@ -3,7 +3,7 @@ Building a compatibility-based "FriendFinder" application -- basically a dating 
 
 
   FriendFinder
-    - .gitignore
+-  .gitignore
     - app
       - data
         - friends.js
