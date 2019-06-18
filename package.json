@@ -9,16 +9,7 @@
   },
   "scripts": {
     "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/FizzyMo/friendfinder.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/FizzyMo/friendfinder/issues"
+  
   },
   "homepage": "https://infinite-ridge-96655.herokuapp.com/"
 }
